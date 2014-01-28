@@ -10,7 +10,7 @@
 	<string name="numberOfDice">Number of Dice</string>
 	<string name="numberOfDiceHint">Number of Dice</string>
 	<string name="numberOfSides">Number of Sides</string>
-	<string name="result">Result:</string>
+	<string name="result"></string>
 	<string name="feedbacktype1">2</string>
 	<string name="feedbacktype2">4</string>
 	<string name="feedbacktype3">6</string>
